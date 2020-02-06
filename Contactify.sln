@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contactify", "Contactify.csproj", "{ACBBD788-4FD3-4503-9C17-FF84A80AB38C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACBBD788-4FD3-4503-9C17-FF84A80AB38C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACBBD788-4FD3-4503-9C17-FF84A80AB38C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACBBD788-4FD3-4503-9C17-FF84A80AB38C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACBBD788-4FD3-4503-9C17-FF84A80AB38C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C69D676A-7B03-499B-8C36-0647E0B4C8CF}
+	EndGlobalSection
+EndGlobal
