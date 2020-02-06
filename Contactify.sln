@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contactify", "Contactify.csproj", "{ACBBD788-4FD3-4503-9C17-FF84A80AB38C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactifyTest", "..\ContactifyTest\ContactifyTest.csproj", "{094AD816-2FC8-452C-8596-38A6DC38306A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{ACBBD788-4FD3-4503-9C17-FF84A80AB38C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACBBD788-4FD3-4503-9C17-FF84A80AB38C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACBBD788-4FD3-4503-9C17-FF84A80AB38C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{094AD816-2FC8-452C-8596-38A6DC38306A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{094AD816-2FC8-452C-8596-38A6DC38306A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{094AD816-2FC8-452C-8596-38A6DC38306A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{094AD816-2FC8-452C-8596-38A6DC38306A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
